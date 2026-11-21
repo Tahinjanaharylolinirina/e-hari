@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="15 85 215 270">
+  <g>
+    <title>ehari</title>
+    <path d="M 208.728 216.718 C 208.728 247.291 158.578 272.076 96.714 272.076 C 34.851 272.076 -15.299 247.291 -15.299 216.718 C -15.299 191.208 19.617 169.727 67.12 163.313 C 25.835 169.739 -4.147 189.045 -4.147 211.862 C -4.147 239.932 41.228 262.688 97.2 262.688 C 153.171 262.688 198.545 239.932 198.545 211.862 C 198.545 190.389 171.992 172.026 134.454 164.581 C 177.75 172.236 208.729 192.689 208.729 216.718 L 208.728 216.718 Z" style="fill: rgb(233, 17, 17); stroke-width: 0.606; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0.000001, 1, -1, 0.000001, 0.00001, 0.000027)"></path>
+    <path d="M 116.048 216.842 C 116.048 248.284 109.018 273.773 100.345 273.773 C 91.672 273.773 84.642 248.284 84.642 216.842 C 84.642 190.607 89.536 168.516 96.196 161.92 C 90.408 168.528 86.205 188.383 86.205 211.848 C 86.205 240.716 92.566 264.118 100.413 264.118 C 108.26 264.118 114.621 240.716 114.621 211.848 C 114.621 189.765 110.899 170.88 105.636 163.224 C 111.706 171.096 116.048 192.131 116.048 216.842 Z" style="stroke-width: 0.606; fill: rgb(74, 5, 5); transform-origin: 100.345px 217.847px;" transform="matrix(0.000001, 1, -1, 0.000001, 0.00001, 0.000001)"></path>
+    <path d="M 148.847 252.723 L 153.331 261.816 L 144.363 261.816 L 148.847 252.723 Z" style="fill: rgb(233, 17, 17); transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0.984808, 0.173648, -0.173648, 0.984808, -0.000015, 0.000024)"></path>
+    <text style="fill: rgb(53, 98, 11); font-family: Allura; font-size: 28.0938px; line-height: 63.55px; white-space: pre;" transform="matrix(2.449902, 0, 0, 1.032258, -191.288284, -10.632551)" x="116.312" y="227.633">hari</text>
+    <text style="fill: rgb(162, 35, 29); font-family: Arial, sans-serif; font-size: 14px; white-space: pre;" transform="matrix(1, 0, 0, 1.190665, 8.316075, -53.49334)"><textPath href="#path-1">Habiletés • Accompagnement • Réussite • Insertion</textPath></text>
+  </g>
+  <path style="fill: none; stroke: rgb(0, 0, 0); visibility: hidden; stroke-width: 0.606;" d="M 115.534 146.434 C 93.156 285.942 322.286 320.983 330.64 153.005" id="path-0"></path>
+  <defs>
+    <style>@import url(https://fonts.googleapis.com/css2?family=Allura%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <path style="fill: none; stroke: rgb(0, 0, 0); visibility: hidden;" d="M 135.137 188.957 C 32.297 19.597 24.1 448.248 137.758 255.165" id="path-1"></path>
+</svg>
